@@ -1,0 +1,8 @@
+.bash_history
+.ipynb_checkpoints/
+.cache
+.config
+.jupyter
+.jupyter-server-log.txt
+.local
+.ipython
