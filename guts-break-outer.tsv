@@ -1,7 +1,6 @@
 #SampleID	BarcodeSequence	species	region	shelf	time	Description	sample_type
 sardine_capbreton_break_day_K21.10	CGATAGGCCTTA	sardine	capbreton	break	day	K21.10	break
 sardine_capbreton_break_day_K27.10	AGGGTGACTTTA	sardine	capbreton	break	day	K27.10	break
-sardine_capbreton_break_day_K29	GCCGTCTCGTAA	sardine	capbreton	break	day	K29	break
 sardine_capbreton_break_day_K30.10	GTGTTCCCAGAA	sardine	capbreton	break	day	K30.10	break
 sardine_capbreton_break_day_K32.10	AGATGATCAGTC	sardine	capbreton	break	day	K32.10	break
 sardine_capbreton_break_day_K33.10	AATGACCTCGTG	sardine	capbreton	break	day	K33.10	break
@@ -19,7 +18,6 @@ sardine_capbreton_break_day_K21.10.1	GTCACATCACGA	sardine	capbreton	break	day	K2
 sardine_capbreton_break_day_K22.10.1	CTATGCCGGCTA	sardine	capbreton	break	day	K22.10.1	break
 sardine_capbreton_break_day_K23.10.1	ACGTGGTTCCAC	sardine	capbreton	break	day	K23.10.1	break
 sardine_capbreton_break_day_K27.10.1	TAGTGTCGGATC	sardine	capbreton	break	day	K27.10.1	break
-sardine_capbreton_break_day_K29.1	TTCCAGGCAGAT	sardine	capbreton	break	day	K29.1	break
 sardine_capbreton_break_day_K30.10.1	TCGACCAAACAC	sardine	capbreton	break	day	K30.10.1	break
 sardine_capbreton_break_day_K32.10.1	CCTGCTTCCTTC	sardine	capbreton	break	day	K32.10.1	break
 sardine_capbreton_break_day_K33.10.1	CGACATTTCTCT	sardine	capbreton	break	day	K33.10.1	break
@@ -29,11 +27,6 @@ sardine_capbreton_break_day_K39.10.1	GAACAGCTCTAC	sardine	capbreton	break	day	K3
 sardine_capbreton_break_day_K40.10.1	CTGAGCTCTGCA	sardine	capbreton	break	day	K40.10.1	break
 sardine_capbreton_break_day_K44.10.1	CGAGGTTCTGAT	sardine	capbreton	break	day	K44.10.1	break
 sardine_capbreton_break_day_K45.10.1	CCACCCAGTAAC	sardine	capbreton	break	day	K45.10.1	break
-sardine_capbreton_break_day_K46.10.1	CAAGGCACAAGG	sardine	capbreton	break	day	K46.10.1	break
-sardine_capbreton_break_day_K49.10.1	GGACGTTAACTA	sardine	capbreton	break	day	K49.10.1	break
-sardine_capbreton_break_day_K50.10.1	TGTACCAACCGA	sardine	capbreton	break	day	K50.10.1	break
-sardine_capbreton_break_day_K51.10.1	GCCTATGAGATC	sardine	capbreton	break	day	K51.10.1	break
-sardine_capbreton_break_day_K52.10.1	GTGAGTCATACC	sardine	capbreton	break	day	K52.10.1	break
 sardine_capbreton_outer_day_L19.10	GAACGGGACGTA	sardine	capbreton	outer	day	L19.10	outer
 sardine_capbreton_outer_day_L31.10	CTTGAGAAATCG	sardine	capbreton	outer	day	L31.10	outer
 sardine_capbreton_outer_day_L35.10	AACTTTCAGGAG	sardine	capbreton	outer	day	L35.10	outer
